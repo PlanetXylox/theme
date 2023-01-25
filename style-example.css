@@ -1,0 +1,85 @@
+:root {
+
+    /* image sources */
+    --btn: url('https://cdn.planetxylox.com/assets/img/example/button_part_one.png');
+    --btn-second: url('https://cdn.planetxylox.com/assets/img/example/button_part_two.png');
+    --bg-img: url("https://cdn.planetxylox.com/assets/img/example/main.png");
+    --bg-main: url("https://cdn.planetxylox.com/assets/img/example/bg.png");
+    --planet-bg: url('https://cdn.planetxylox.com/content/planets/bg.jpg');
+    
+    /* main */
+    --color: white;
+    /* Use this site: https://cssgradient.io/ to make gradient backgrounds */
+    --background: linear-gradient(333deg, rgba(165,165,165,1) 0%, rgba(251,251,251,1) 0%, rgba(165,165,165,1) 100%);;
+    --bg-alt: #949494;
+    --main: #000;
+    
+    /* header text color */
+    --header-text: #151515;
+    
+    /* For the Narbar */
+    --nav-bg: #063e37;
+    --nav-border: #02312c;
+    --nav-text: #fff;
+    --nav-text-hover: #d3d3d3;
+    --nav-text-active:  #d3d3d3;
+    --nav-dropdown-bg: #239b8fc4;
+    --nav-dropdown-hover-bg: #299e92b7;
+    /* edit the stroke rbg, this value is the nav-border, just to rgb */
+    --nav-icon: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(2, 49, 44)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    
+    /* Tabs (seen in settings) */
+    --tabs: #ededed;
+    --tabs-bg: #272727;
+    --tabs-border: #292929 #2e2e2e #1b1b1b; 
+    
+    
+    /* For form stuff */
+    --input-color:#a9a9a9;
+    --input-border:#8b8b94;
+    
+    /* For images */
+    --img-bg: #0e0e0e;
+    --img-border: #0f0f0f;
+    
+    
+    /* Links and to highlight */
+    --imp-hover: #0a9988;
+    --imp: #007467;
+    
+    /* For the Footer */
+    --footer-color: white;
+    --footer-link-color: white;
+    --footer-link-alt-color: #bdbdbd;
+    
+    
+    /* Table and hr thingy */
+    --hr: #202020;
+    
+    /* Pagination */
+    --page: #007467;
+    --page-text: #fff;
+    --page-bg: #007467;
+    --page-border: #d3d3d3;
+    
+    /* Animation text for staff's usernames */
+    --animation: linear-gradient(to right,#24a494,#1aac9c,#068575,#21b09e);
+    
+    /* For Guestbook */
+    --chatbox: #8b8b94;
+    --chat-report: brown;
+    
+    /* For the popup */
+    --pop-success: #144d3d;
+    --pop-success-bg: #206452;
+    --pop-sucesss-border: #064635;
+
+    --pop-warning: #d48b04;
+    --pop-warning-bg: #a17c37;
+    --pop-warning-border: #8a6e3a;
+
+    --pop-error: #611717;
+    --pop-error-bg: #751e1e;
+    --pop-error-border: #460606;
+
+}

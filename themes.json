@@ -1,0 +1,10 @@
+[
+{
+"name": "Example Theme",
+"id": "example",
+"css": "-example",
+"enabled": false,
+"default": true,
+"type": "classic"
+}
+]
