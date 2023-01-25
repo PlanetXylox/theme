@@ -9,9 +9,9 @@ You can use a photo editor to make the template colors you want
 
 You see the CSS file in the repo but you can edit the HEX colors in them to match the theme.
 
-* style-[name].css
+* style-example.css
 
-[nsme] being the theme name of choice.
+example being the theme name of choice.
 
 ## themes.json
 
@@ -25,9 +25,9 @@ Theme will be the default until 01/25 to 02/01
 
 ```
 {
-"name": "[name] Theme",
-"id": "[name]",
-"css": "-[name]",
+"name": "example Theme",
+"id": "example",
+"css": "-example",
 "type": "[classic|seasonal]",
 "enabled": true,
 "default": true
