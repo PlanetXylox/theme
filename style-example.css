@@ -1,11 +1,11 @@
 :root {
 
     /* image sources */
-    --btn: url('https://cdn.planetxylox.com/assets/img/example/button_part_one.png');
-    --btn-second: url('https://cdn.planetxylox.com/assets/img/example/button_part_two.png');
-    --bg-img: url("https://cdn.planetxylox.com/assets/img/example/main.png");
-    --bg-main: url("https://cdn.planetxylox.com/assets/img/example/bg.png");
-    --planet-bg: url('https://cdn.planetxylox.com/content/planets/bg.jpg');
+    --btn: url('https://cdn.planetxylox.com/assets/img/example/button_part_one.webp');
+    --btn-second: url('https://cdn.planetxylox.com/assets/img/example/button_part_two.webp');
+    --bg-img: url("https://cdn.planetxylox.com/assets/img/example/main.webp");
+    --bg-main: url("https://cdn.planetxylox.com/assets/img/example/bg.webp");
+    --planet-bg: url('https://cdn.planetxylox.com/content/planets/bg.webp');
     
     /* main */
     --color: white;
